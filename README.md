@@ -2,8 +2,8 @@
 
 - Bully will stick bullets++ to wikipedia markups.
 
-''sh
+```sh
 python3 bully.py
-''
+```
 
 #### **[ Developer : Blesslin Jerish R ]**
